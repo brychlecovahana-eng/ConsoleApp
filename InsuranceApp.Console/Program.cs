@@ -7,6 +7,7 @@
     static class Program
     {
         private static int input;
+
         /// <summary>
         /// Spouští celé uživatelské rozhraní pro uživatele.
         /// </summary>

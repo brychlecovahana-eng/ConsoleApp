@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="InsuranceApp.Console/InsuranceApp.Console.csproj" />
+  <Project Path="InsuranceApp.Data/InsuranceApp.Data.csproj" />
+  <Project Path="InsuranceApp.Services/InsuranceApp.Services.csproj" />
+</Solution>

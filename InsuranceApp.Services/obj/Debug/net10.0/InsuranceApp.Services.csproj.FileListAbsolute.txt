@@ -1,0 +1,15 @@
+C:\Users\brych\Dropbox\Csharp\InsuranceApp\InsuranceApp.Services\bin\Debug\net10.0\InsuranceApp.Services.deps.json
+C:\Users\brych\Dropbox\Csharp\InsuranceApp\InsuranceApp.Services\bin\Debug\net10.0\InsuranceApp.Services.dll
+C:\Users\brych\Dropbox\Csharp\InsuranceApp\InsuranceApp.Services\bin\Debug\net10.0\InsuranceApp.Services.pdb
+C:\Users\brych\Dropbox\Csharp\InsuranceApp\InsuranceApp.Services\bin\Debug\net10.0\InsuranceApp.Data.dll
+C:\Users\brych\Dropbox\Csharp\InsuranceApp\InsuranceApp.Services\bin\Debug\net10.0\InsuranceApp.Data.pdb
+C:\Users\brych\Dropbox\Csharp\InsuranceApp\InsuranceApp.Services\obj\Debug\net10.0\InsuranceApp.Services.csproj.AssemblyReference.cache
+C:\Users\brych\Dropbox\Csharp\InsuranceApp\InsuranceApp.Services\obj\Debug\net10.0\InsuranceApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brych\Dropbox\Csharp\InsuranceApp\InsuranceApp.Services\obj\Debug\net10.0\InsuranceApp.Services.AssemblyInfoInputs.cache
+C:\Users\brych\Dropbox\Csharp\InsuranceApp\InsuranceApp.Services\obj\Debug\net10.0\InsuranceApp.Services.AssemblyInfo.cs
+C:\Users\brych\Dropbox\Csharp\InsuranceApp\InsuranceApp.Services\obj\Debug\net10.0\InsuranceApp.Services.csproj.CoreCompileInputs.cache
+C:\Users\brych\Dropbox\Csharp\InsuranceApp\InsuranceApp.Services\obj\Debug\net10.0\Insuranc.607AB752.Up2Date
+C:\Users\brych\Dropbox\Csharp\InsuranceApp\InsuranceApp.Services\obj\Debug\net10.0\InsuranceApp.Services.dll
+C:\Users\brych\Dropbox\Csharp\InsuranceApp\InsuranceApp.Services\obj\Debug\net10.0\refint\InsuranceApp.Services.dll
+C:\Users\brych\Dropbox\Csharp\InsuranceApp\InsuranceApp.Services\obj\Debug\net10.0\InsuranceApp.Services.pdb
+C:\Users\brych\Dropbox\Csharp\InsuranceApp\InsuranceApp.Services\obj\Debug\net10.0\ref\InsuranceApp.Services.dll
